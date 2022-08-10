@@ -1,3 +1,4 @@
+
   # README Generator
   ## Table of contents
   - [project description](#Description)
@@ -15,6 +16,6 @@
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## GitHub link
-  [!Profile](https://github.com/sm4ck101)
+  [Github Profile](https://github.com/sm4ck101)
   ## Email
-  [!Email](mailto:mikeamartinez314@gmail.com)
+  [Contact](mailto:mikeamartinez314@gmail.com)
